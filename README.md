@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamidjalili" target="blank"><img src="https://img.shields.io/twitter/follow/hamidjalili?logo=twitter&style=for-the-badge" alt="hamidjalili" /></a> </p>
 
-- 🔭 I’m currently working on **asatic**
+- 🔭 I’m currently working on **Asatic**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamidjalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamidjalili" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamid jalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamid jalili" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamid-jalili-8009621b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamid-jalili-8009621b1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidjalili59&show_icons=true&locale=en" alt="hamidjalili59" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidjalili59&" alt="hamidjalili59" /></p>
-# hamidjalili59
