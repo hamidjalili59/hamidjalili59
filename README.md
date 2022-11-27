@@ -1,7 +1,7 @@
-[![MasterHead](./assets/android.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/hamidjalili59/hamidjalili59/blob/main/assets/android.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hamid Jalili</h1>
 <h3 align="center">A passionate flutter developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="./assets/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/hamidjalili59/hamidjalili59/blob/main/assets/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidjalili59&label=Profile%20views&color=0e75b6&style=flat" alt="hamidjalili59" /> </p>
 
