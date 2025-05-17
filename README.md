@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hamidjalili" target="blank"><img src="https://img.shields.io/twitter/follow/hamidjalili?logo=twitter&style=for-the-badge" alt="hamidjalili" /></a> </p>
 
-- 🔭 I’m currently working on **Asatic**
+- 🔭 I’m currently working on **Seedsoft**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter , Dart , Golang , c++**
+- 💬 Ask me about **Flutter , Dart , Golang , Rust**
 
 - 📫 How to reach me **hamidjalili9010@gmail.com**
 
